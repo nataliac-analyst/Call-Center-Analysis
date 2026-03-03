@@ -2,7 +2,7 @@
 
 Dashboard analítico desarrollado en **Python y Dash** para evaluar el desempeño operativo de un call center y analizar los factores que influyen en la Resolución en Primera Llamada (FCR).
 
-🔗 Aplicación desplegada en Render: [LINK_AQUI]
+🔗 Aplicación desplegada en Render: https://call-center-analysis-ftc5.onrender.com/
 
 ---
 
